@@ -1,5 +1,5 @@
 # demo
 this is my first git repository.
 <br>
-Author - Adhil Muhammad
+Author - Adhil (student)
 
